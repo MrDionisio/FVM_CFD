@@ -1,0 +1,1208 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.6)  16 JAN 2025 07:17
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/dio/Documents/Study/Pozhilov/Report/main.tex
+(c:/Users/dio/Documents/Study/Pozhilov/Report/main.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+(C:\Apps\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Apps\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count190
+\c@section=\count191
+\c@subsection=\count192
+\c@subsubsection=\count193
+\c@paragraph=\count194
+\c@subparagraph=\count195
+\c@figure=\count196
+\c@table=\count197
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (C:\Apps\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Apps\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (C:\Apps\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Apps\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Apps\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Apps\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count198
+\Gm@cntv=\count199
+\c@Gm@tempcnt=\count266
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+ (C:\Apps\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Apps\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (C:\Apps\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/08/29 v24.9 The Babel package
+\babel@savecnt=\count267
+\U@D=\dimen150
+\l@unhyphenated=\language79
+ (C:\Apps\MiKTeX\tex/generic/babel\xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count268
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Apps\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Apps\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+) (C:\Apps\MiKTeX\tex/latex/babel-russian\russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+)) (C:\Apps\MiKTeX\tex/generic/babel/locale/ru\babel-russian.tex
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 11.
+) (C:\Apps\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (C:\Apps\MiKTeX\tex/latex/fontspec\fontspec.sty (C:\Apps\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Apps\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-08-30 L3 programming layer (loader) 
+ (C:\Apps\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count269
+\l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count270
+\g__pdf_backend_link_int=\count271
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+ (C:\Apps\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count272
+\l__fontspec_language_int=\count273
+\l__fontspec_strnum_int=\count274
+\l__fontspec_tmp_int=\count275
+\l__fontspec_tmpa_int=\count276
+\l__fontspec_tmpb_int=\count277
+\l__fontspec_tmpc_int=\count278
+\l__fontspec_em_int=\count279
+\l__fontspec_emdef_int=\count280
+\l__fontspec_strong_int=\count281
+\l__fontspec_strongdef_int=\count282
+\l__fontspec_tmpa_dim=\dimen151
+\l__fontspec_tmpb_dim=\dimen152
+\l__fontspec_tmpc_dim=\dimen153
+ (C:\Apps\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Apps\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+
+ (C:\Apps\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count283
+\multirow@dima=\skip52
+\bigstrutjot=\dimen154
+) (C:\Apps\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Apps\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+ (C:\Apps\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+) (C:\Apps\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Apps\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
+ (C:\Apps\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen155
+\ar@mcellbox=\box53
+\extrarowheight=\dimen156
+\NC@list=\toks21
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box54
+)
+\everycr=\toks22
+\minrowclearance=\skip55
+\rownum=\count284
+) (C:\Apps\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Apps\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Apps\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Apps\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+)
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+) (C:\Apps\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+(C:\Apps\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Apps\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen159
+)) (C:\Apps\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen160
+) (C:\Apps\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count285
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count286
+\leftroot@=\count287
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count288
+\DOTSCASE@=\count289
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen161
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count290
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count291
+\dotsspace@=\muskip17
+\c@parentequation=\count292
+\dspbrk@lvl=\count293
+\tag@help=\toks24
+\row@=\count294
+\column@=\count295
+\maxfields@=\count296
+\andhelp@=\toks25
+\eqnshift@=\dimen162
+\alignsep@=\dimen163
+\tagshift@=\dimen164
+\tagwidth@=\dimen165
+\totwidth@=\dimen166
+\lineht@=\dimen167
+\@envbody=\toks26
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Apps\MiKTeX\tex/latex/t2\mathtext.sty
+Package: mathtext 2018/04/13 v1.1 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 119.
+) (C:\Apps\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count297
+\float@exts=\toks28
+\float@box=\box57
+\@float@everytoks=\toks29
+\@floatcapt=\box58
+) (C:\Apps\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Apps\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+ (C:\Apps\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Apps\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Apps\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Apps\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Apps\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Apps\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)) (C:\Apps\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Apps\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Apps\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Apps\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Apps\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count298
+) (C:\Apps\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count299
+) (C:\Apps\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen168
+\Hy@linkcounter=\count300
+\Hy@pagecounter=\count301
+ (C:\Apps\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+\symPD1letters=\mathgroup4
+) (C:\Apps\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count302
+ (C:\Apps\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+\symPUletters=\mathgroup5
+)
+Package hyperref Info: Option `unicode' set `true' on input line 3143.
+Package hyperref Info: Option `unicode' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count303
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen169
+ (C:\Apps\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Apps\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count304
+\Field@Width=\dimen170
+\Fld@charsize=\dimen171
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (C:\Apps\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count305
+\c@Item=\count306
+\c@Hfootnote=\count307
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (C:\Apps\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2024-07-10 v7.01j Hyperref driver for XeTeX
+\pdfm@box=\box59
+\c@Hy@AnnotLevel=\count308
+\HyField@AnnotCount=\count309
+\Fld@listcount=\count310
+\c@bookmark@seq@number=\count311
+ (C:\Apps\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Apps\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (C:\Apps\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip59
+) (C:\Apps\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+ (C:\Apps\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Apps\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen172
+\captionmargin=\dimen173
+\caption@leftmargin=\dimen174
+\caption@rightmargin=\dimen175
+\caption@width=\dimen176
+\caption@indent=\dimen177
+\caption@parindent=\dimen178
+\caption@hangindent=\dimen179
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count312
+\c@continuedfloat=\count313
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count314
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count315
+) (C:\Apps\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+\MT@toks=\toks30
+\MT@tempbox=\box60
+\MT@count=\count316
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
+\MT@prot@toks=\toks31
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
+\MT@outer@kern=\dimen180
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+\MT@listname@count=\count317
+ (C:\Apps\MiKTeX\tex/latex/microtype\microtype-xetex.def
+File: microtype-xetex.def 2024/03/29 v3.1b Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 238.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Apps\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
+)) (C:\Apps\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+
+
+LaTeX Warning: Command \@arrayparboxrestore  has changed.
+               Check if current package is valid.
+
+(C:\Apps\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2023/07/05 v6.0f a miscellany of footnote facilities
+\FN@temptoken=\toks32
+\footnotemargin=\dimen181
+\@outputbox@depth=\dimen182
+Package footmisc Info: Declaring symbol style bringhurst on input line 696.
+Package footmisc Info: Declaring symbol style chicago on input line 704.
+Package footmisc Info: Declaring symbol style wiley on input line 713.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 724.
+Package footmisc Info: Declaring symbol style lamport* on input line 744.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 765.
+)
+\CenteringLeftskip=\skip60
+\RaggedLeftLeftskip=\skip61
+\RaggedRightLeftskip=\skip62
+\CenteringRightskip=\skip63
+\RaggedLeftRightskip=\skip64
+\RaggedRightRightskip=\skip65
+\CenteringParfillskip=\skip66
+\RaggedLeftParfillskip=\skip67
+\RaggedRightParfillskip=\skip68
+\JustifyingParfillskip=\skip69
+\CenteringParindent=\skip70
+\RaggedLeftParindent=\skip71
+\RaggedRightParindent=\skip72
+\JustifyingParindent=\skip73
+) (C:\Apps\MiKTeX\tex/latex/hyphenat\hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language80
+LaTeX Info: Redefining \_ on input line 43.
+) (c:\Users\dio\Documents\Study\Pozhilov\Report\tmp\main.aux
+
+LaTeX Warning: Label `fig:13' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 43.
+ (C:\Apps\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 500.484pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \th on input line 43.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 43.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 43.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 43.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 43.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 43.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 43.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 43.
+LaTeX Font Info:    Redeclaring math accent \check on input line 43.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 43.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 43.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 43.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 43.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 43.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 43.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 43.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 43.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 43.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 43.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 43.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 43.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 43.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 43.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 43.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 43.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 43.
+Package hyperref Info: Link coloring OFF on input line 43.
+(c:\Users\dio\Documents\Study\Pozhilov\Report\tmp\main.out) (c:\Users\dio\Documents\Study\Pozhilov\Report\tmp\main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \microtypecontext on input line 43.
+Package microtype Info: Applying patch `item' on input line 43.
+Package microtype Info: Applying patch `toc' on input line 43.
+Package microtype Info: Applying patch `eqnum' on input line 43.
+Package microtype Info: Applying patch `footnote' on input line 43.
+Package microtype Info: Applying patch `verbatim' on input line 43.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `TimesNewRoman' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 43.
+ (titlepage.tex
+LaTeX Font Info:    Trying to load font information for PD1+TimesNewRoman(0) on input line 17.
+LaTeX Font Info:    No file PD1TimesNewRoman(0).fd. on input line 17.
+
+
+LaTeX Font Warning: Font shape `PD1/TimesNewRoman(0)/m/up' undefined
+(Font)              using `PD1/pdf/m/n' instead on input line 17.
+
+LaTeX Font Info:    Trying to load font information for PU+TimesNewRoman(0) on input line 17.
+LaTeX Font Info:    No file PUTimesNewRoman(0).fd. on input line 17.
+
+LaTeX Font Warning: Font shape `PU/TimesNewRoman(0)/m/up' undefined
+(Font)              using `PU/pdf/m/n' instead on input line 17.
+
+(C:\Apps\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+))
+
+[1
+
+] (c:\Users\dio\Documents\Study\Pozhilov\Report\tmp\main.toc
+Overfull \hbox (47.07698pt too wide) in paragraph at lines 12--12
+ [] [][]\TU/TimesNewRoman(0)/b/n/12 Описание алгоритма расчета уравнения конвективно-диффузионного переноса температуры.[] []  
+ []
+
+
+Overfull \hbox (71.77425pt too wide) in paragraph at lines 14--14
+ [] [][]\TU/TimesNewRoman(0)/b/n/12 Результаты исследований реализованных методов расчета пространственных дифференциальных 
+ []
+
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+
+[2] (Task.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+[]\TU/TimesNewRoman(0)/m/n/12 Необходимо разработать программу для численного решения уравнения
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 2--3
+\TU/TimesNewRoman(0)/m/n/12 конвективно-диффузионного переноса температуры в заданном поле скоростей по методу
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]\TU/TimesNewRoman(0)/m/n/12 Решить уравнение конвективно-диффузионного переноса скалярной величины
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[]\TU/TimesNewRoman(0)/m/n/12 Для построения контрольного объема используют один из двух методов:
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 22--23
+\TU/TimesNewRoman(0)/m/n/12 объемно-центрированный (Cell-centered), при котором решение ищется в центрах конечного
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 22--23
+\TU/TimesNewRoman(0)/m/n/12 объема, и вершино-центрированный (Vertex-based), при котором решение ищется в узлах
+ []
+
+
+
+[3]
+File: img/1.png Graphic file (type bmp)
+<img/1.png>
+File: img/2.png Graphic file (type bmp)
+<img/2.png>
+
+Underfull \hbox (badness 2689) in paragraph at lines 47--48
+[]\TU/TimesNewRoman(0)/m/n/12 В свою очередь вектор плотности потока $[]$ можно разложить на конвективную и
+ []
+
+
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+[]\TU/TimesNewRoman(0)/m/n/12 В результате получаем полудискретный (ввиду того, что осталась недискретная
+ []
+
+File: img/3.png Graphic file (type bmp)
+<img/3.png>
+
+
+[5]
+Underfull \hbox (badness 2671) in paragraph at lines 97--98
+[]\TU/TimesNewRoman(0)/m/n/12 Вешины данной грани пронумерованы от 1 до N. При этом номер вершины N+1
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 112--113
+[]\TU/TimesNewRoman(0)/m/n/12 Для вычисления объема ячейка произвольной формы разбивается на пирамиды с
+ []
+
+
+
+[6]
+Underfull \hbox (badness 1184) in paragraph at lines 123--124
+[]\TU/TimesNewRoman(0)/m/n/12 Центр грани $[]$ определяется несколькими способами. Первый способ подразумевает
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 130--135
+[]\TU/TimesNewRoman(0)/m/n/12 Последний способ определения имеет преимущество над способом определения с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+[]\TU/TimesNewRoman(0)/m/n/12 Так как в данной работ рассматривается структурированная расчетная сетка с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+\TU/TimesNewRoman(0)/m/n/12 четырехугольными ячейками, вследствии чего выражения для расчетов геометрических
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 145--147
+[]\TU/TimesNewRoman(0)/m/n/12 Рассматривая двумерные расчетные сетки, каждая грань ячейки представляет собой
+ []
+
+
+
+[7]
+File: img/4.png Graphic file (type bmp)
+<img/4.png>
+
+Underfull \hbox (badness 1303) in paragraph at lines 173--174
+[]\TU/TimesNewRoman(0)/m/n/12 Центр грани расчитывается как среднее арифметическое координат соответствующих
+ []
+
+
+
+[8]
+Underfull \hbox (badness 2393) in paragraph at lines 201--201
+[]\TU/TimesNewRoman(0)/b/n/17.28 Описание расчета пространственных дифференциальных
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 203--204
+[]\TU/TimesNewRoman(0)/m/n/12 Используя теорему Остроградского-Гаусса и теорему о среднем можем получить
+ []
+
+File: img/5.png Graphic file (type bmp)
+<img/5.png>
+
+
+[9]
+Underfull \hbox (badness 1199) in paragraph at lines 233--234
+[]\TU/TimesNewRoman(0)/m/n/12 В случае скошенной расчетной сетки линейная интерполяция плохо работает и дает
+ []
+
+File: img/6.png Graphic file (type bmp)
+<img/6.png>
+
+Underfull \hbox (badness 6157) in paragraph at lines 245--246
+[]\TU/TimesNewRoman(0)/m/n/12 Получаем итерационный процесс, где на первом шаге мы используем линейную
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 258--259
+[]\TU/TimesNewRoman(0)/m/n/12 Запишем теорему Остроградского-Гаусса для дивергенции произведения скалярной
+ []
+
+
+
+[10]
+Underfull \hbox (badness 3396) in paragraph at lines 273--274
+[]\TU/TimesNewRoman(0)/m/n/12 Противопоточная схема первого порядка (FOU) - при использовании данной схемы
+ []
+
+File: img/7.png Graphic file (type bmp)
+<img/7.png>
+
+
+[11]
+File: img/8.png Graphic file (type bmp)
+<img/8.png>
+
+Underfull \hbox (badness 1112) in paragraph at lines 332--333
+[]\TU/TimesNewRoman(0)/m/n/12 Используя ту же самую теорему Гаусса-Остроградского и теорему о среднем можем
+ []
+
+
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 341--341
+[]\TU/TimesNewRoman(0)/b/n/17.28 Описание алгоритма расчета уравнения
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 342--343
+[]\TU/TimesNewRoman(0)/m/n/12 В данной работе рассматривается стационарное течение несжимаемой жидкости в
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 348--349
+[]\TU/TimesNewRoman(0)/m/n/12 В качестве скалярной функции рассмтривается внутренняя энергия, тогда обозначим
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 366--368
+\TU/TimesNewRoman(0)/m/n/12 метода вводится псевдовремя $\OML/cmm/m/it/12 ^^\$\TU/TimesNewRoman(0)/m/n/12 , а в уравнении добавляется соответствующая производная
+ []
+
+
+
+[13]
+Underfull \hbox (badness 3557) in paragraph at lines 379--380
+\TU/TimesNewRoman(0)/m/n/12 в центре расматриваемой ячейки. Для определения невязки расчитываются конвективный
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 379--380
+\TU/TimesNewRoman(0)/m/n/12 и диффузионные потоки на гранях ячейки, расчет которых был представлен ранее. Шаг
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 391--392
+[]\TU/TimesNewRoman(0)/m/n/12 Блок схема для вычисления пространственных операторов и разрешения уравнений
+ []
+
+File: img/9.jpg Graphic file (type bmp)
+<img/9.jpg>
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 2698) in paragraph at lines 402--404
+[]\TU/TimesNewRoman(0)/m/n/12 1. Модуль A_-Main.f90 Данный модуль является управляющим и основным. В нём
+ []
+
+
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+[]\TU/TimesNewRoman(0)/m/n/12 После инициализации полей $\OML/cmm/m/it/12 p$ \TU/TimesNewRoman(0)/m/n/12 и $[]$ производится расчет точных значений
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 435--436
+[]\TU/TimesNewRoman(0)/m/n/12 расчета точных значений пространственных дифференциальных операторов в виде
+ []
+
+
+
+[15]
+
+[16]
+Underfull \hbox (badness 5490) in paragraph at lines 481--482
+[]\TU/TimesNewRoman(0)/m/n/12 на рисунке []7.1[] представлены три различных расчетные сетки, используемые при
+ []
+
+File: img/10.1.png Graphic file (type bmp)
+<img/10.1.png>
+File: img/10.2.png Graphic file (type bmp)
+<img/10.2.png>
+File: img/10.3.png Graphic file (type bmp)
+<img/10.3.png>
+
+Underfull \hbox (badness 1005) in paragraph at lines 506--507
+\TU/TimesNewRoman(0)/m/n/12 соответствующие им значения скалярных операторов. При расчете дивергенции необходимо
+ []
+
+
+
+[17]
+
+[18]
+File: img/11.1.png Graphic file (type bmp)
+<img/11.1.png>
+File: img/11.2.png Graphic file (type bmp)
+<img/11.2.png>
+
+
+[19]
+File: img/12.1.png Graphic file (type bmp)
+<img/12.1.png>
+File: img/12.2.png Graphic file (type bmp)
+<img/12.2.png>
+File: img/13.1.png Graphic file (type bmp)
+<img/13.1.png>
+File: img/13.2.png Graphic file (type bmp)
+<img/13.2.png>
+
+
+[20]
+File: img/14.1.png Graphic file (type bmp)
+<img/14.1.png>
+File: img/14.2.png Graphic file (type bmp)
+<img/14.2.png>
+File: img/15.1.png Graphic file (type bmp)
+<img/15.1.png>
+File: img/15.2.png Graphic file (type bmp)
+<img/15.2.png>
+
+
+[21]
+File: img/16.1.png Graphic file (type bmp)
+<img/16.1.png>
+File: img/16.2.png Graphic file (type bmp)
+<img/16.2.png>
+
+
+[22]
+File: img/16.1.png Graphic file (type bmp)
+<img/16.1.png>
+
+
+[23]
+Underfull \hbox (badness 3049) in paragraph at lines 743--744
+[]\TU/TimesNewRoman(0)/m/n/12 На рисункаъ []7.9[] - []7.13[] представлены распределения ошибки для дивергенции для
+ []
+
+File: img/18.1.png Graphic file (type bmp)
+<img/18.1.png>
+File: img/18.2.png Graphic file (type bmp)
+<img/18.2.png>
+File: img/18.3.png Graphic file (type bmp)
+<img/18.3.png>
+File: img/19.1.png Graphic file (type bmp)
+<img/19.1.png>
+File: img/19.2.png Graphic file (type bmp)
+<img/19.2.png>
+File: img/19.3.png Graphic file (type bmp)
+<img/19.3.png>
+
+Underfull \hbox (badness 2237) in paragraph at lines 763--772
+\TU/TimesNewRoman(0)/m/n/12 по-прежнему наблюдается машинная точность. Единственное, что схема SOU для второго
+ []
+
+File: img/20.1.png Graphic file (type bmp)
+<img/20.1.png>
+File: img/20.2.png Graphic file (type bmp)
+<img/20.2.png>
+File: img/20.3.png Graphic file (type bmp)
+<img/20.3.png>
+
+
+[24]
+File: img/21.1.png Graphic file (type bmp)
+<img/21.1.png>
+File: img/21.2.png Graphic file (type bmp)
+<img/21.2.png>
+File: img/21.3.png Graphic file (type bmp)
+<img/21.3.png>
+File: img/22.1.png Graphic file (type bmp)
+<img/22.1.png>
+File: img/22.2.png Graphic file (type bmp)
+<img/22.2.png>
+File: img/22.3.png Graphic file (type bmp)
+<img/22.3.png>
+
+
+[25]
+File: img/23.1.png Graphic file (type bmp)
+<img/23.1.png>
+File: img/23.2.png Graphic file (type bmp)
+<img/23.2.png>
+
+
+[26]
+File: img/24.1.png Graphic file (type bmp)
+<img/24.1.png>
+File: img/24.2.png Graphic file (type bmp)
+<img/24.2.png>
+File: img/25.1.png Graphic file (type bmp)
+<img/25.1.png>
+File: img/25.2.png Graphic file (type bmp)
+<img/25.2.png>
+
+
+[27]
+File: img/26.1.png Graphic file (type bmp)
+<img/26.1.png>
+File: img/26.2.png Graphic file (type bmp)
+<img/26.2.png>
+File: img/27.1.png Graphic file (type bmp)
+<img/27.1.png>
+File: img/27.2.png Graphic file (type bmp)
+<img/27.2.png>
+
+
+[28]
+File: img/28.1.png Graphic file (type bmp)
+<img/28.1.png>
+File: img/28.2.png Graphic file (type bmp)
+<img/28.2.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 934--935
+[]\TU/TimesNewRoman(0)/m/n/12 Для скошенных сеток наблюдаем огромные ошибки, которые уменьшаются при
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--940
+[]\TU/TimesNewRoman(0)/m/n/12 Для расчета ротора векторного поля изпользовались полиномы третьей степени.
+ []
+
+
+
+[29]
+File: img/29.1.png Graphic file (type bmp)
+<img/29.1.png>
+File: img/29.2.png Graphic file (type bmp)
+<img/29.2.png>
+File: img/29.3.png Graphic file (type bmp)
+<img/29.3.png>
+File: img/30.1.png Graphic file (type bmp)
+<img/30.1.png>
+File: img/30.2.png Graphic file (type bmp)
+<img/30.2.png>
+File: img/30.3.png Graphic file (type bmp)
+<img/30.3.png>
+
+
+[30]
+File: img/31.1.png Graphic file (type bmp)
+<img/31.1.png>
+File: img/31.2.png Graphic file (type bmp)
+<img/31.2.png>
+File: img/31.3.png Graphic file (type bmp)
+<img/31.3.png>
+
+Underfull \hbox (badness 1199) in paragraph at lines 993--996
+[]\TU/TimesNewRoman(0)/m/n/12 Поскольку при расчете ротора не использовались никакие поправки на скошенность,
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 1001--1006
+\TU/TimesNewRoman(0)/m/n/12 стенки левая - горячая, правая - холодная, температура холодной стенки $\OML/cmm/m/it/12 T[]old$ \TU/TimesNewRoman(0)/m/n/12 равна 1.0,
+ []
+
+
+
+[31]
+File: img/32.png Graphic file (type bmp)
+<img/32.png>
+File: img/33.png Graphic file (type bmp)
+<img/33.png>
+
+Underfull \hbox (badness 3919) in paragraph at lines 1023--1024
+\TU/TimesNewRoman(0)/m/n/12 B_-CalcResT. Он представляет из себя возможность проведения расчетов конвективных и
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 1023--1024
+\TU/TimesNewRoman(0)/m/n/12 диффузионных потоков на гранях вследствии чего находятся невязки и значения шагов по
+ []
+
+
+
+[32]
+File: img/01.1.png Graphic file (type bmp)
+<img/01.1.png>
+File: img/01.2.png Graphic file (type bmp)
+<img/01.2.png>
+File: img/01.3.png Graphic file (type bmp)
+<img/01.3.png>
+
+Underfull \hbox (badness 1107) in paragraph at lines 1028--1036
+[]\TU/TimesNewRoman(0)/m/n/12 Сетка строилась в программе FLOS и имеет размеры 21x21 ячейки. На рисунке []8.3[]
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 1037--1042
+\TU/TimesNewRoman(0)/m/n/12 картина распределения линий тока, где можно заметить, что в верхней половине каверны
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 1043--1050
+[]\TU/TimesNewRoman(0)/m/n/12 В свою очередь в можно увидеть, что наличие конвективного переноса приводит к
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 1051--1052
+[]\TU/TimesNewRoman(0)/m/n/12 В таблице []7[] представлены входные параметры, задаваемые для получения решения.
+ []
+
+
+
+[33]
+Underfull \hbox (badness 1184) in paragraph at lines 1076--1081
+\TU/TimesNewRoman(0)/m/n/12 температуры. Для наглядности в ходе исследования с помощью вычислительного кода был
+ []
+
+File: img/02.png Graphic file (type bmp)
+<img/02.png>
+
+
+[34]
+File: img/03.png Graphic file (type bmp)
+<img/03.png>
+File: img/04.1.png Graphic file (type bmp)
+<img/04.1.png>
+File: img/04.2.png Graphic file (type bmp)
+<img/04.2.png>
+
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1119--1120
+[]\TU/TimesNewRoman(0)/m/n/12 Видно, что для схемы Upwind Gradine Based ошибка чуть больше чем для
+ []
+
+File: img/05.1.png Graphic file (type bmp)
+<img/05.1.png>
+File: img/05.2.png Graphic file (type bmp)
+<img/05.2.png>
+File: img/06.1.png Graphic file (type bmp)
+<img/06.1.png>
+File: img/06.2.png Graphic file (type bmp)
+<img/06.2.png>
+
+
+[36]
+Underfull \hbox (badness 2503) in paragraph at lines 1139--1152
+\TU/TimesNewRoman(0)/m/n/12 автоматическое распределение итераций циклу между нитями. Для оценки эффективности
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 1139--1152
+\TU/TimesNewRoman(0)/m/n/12 параллелизации задавалось различное количество нитей от 1 до 4 с помощью переменной
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 1139--1152
+\TU/TimesNewRoman(0)/m/n/12 окружения OMP_-NUM_-THREADS, а использование функции OMP_-GET_-WTIME позволяло
+ []
+
+
+LaTeX Warning: Reference `kon' on page 37 undefined on input line 1154.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1159.
+
+File: img/l1.png Graphic file (type bmp)
+<img/l1.png>
+File: img/l2.png Graphic file (type bmp)
+<img/l2.png>
+
+
+[37]
+
+LaTeX Warning: Reference `kon' on page 38 undefined on input line 1186.
+
+Missing character: There is no 𝑝 in font Times New Roman/OT:script=latn;language=dflt;mapping=tex-text;!
+)
+Underfull \hbox (badness 1019) in paragraph at lines 1186--55
+[]\TU/TimesNewRoman(0)/m/n/12 Исходя из значений, приведенных в таблице [], и графиков видно, что наблюдается
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 1186--55
+\TU/TimesNewRoman(0)/m/n/12 довольно сильное отклонение от идеальных зависимостей, как для ускорения, так и для
+ []
+
+
+
+[38] (c:\Users\dio\Documents\Study\Pozhilov\Report\tmp\main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: C395DC767E417959E7CB6F7071608135;7956.
+ ) 
+Here is how much of TeX's memory you used:
+ 17862 strings out of 409029
+ 335777 string characters out of 5762831
+ 828133 words of memory out of 5000000
+ 40256 multiletter control sequences out of 15000+600000
+ 562931 words of font info for 76 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 79i,13n,93p,1046b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on c:\Users\dio\Documents\Study\Pozhilov\Report\tmp\main.xdv (38 pages, 449904 bytes).

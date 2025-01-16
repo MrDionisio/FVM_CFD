@@ -1,0 +1,57 @@
+\documentclass[12pt]{article}
+
+% Настройка интервалов
+\usepackage[onehalfspacing]{setspace}
+
+% Первичный отступ абзацев
+\usepackage{indentfirst}
+\setlength{\parindent}{1.25cm}
+
+% Настройка полей документа
+\usepackage[left=3cm, right=1cm, top=2cm, bottom=2cm]{geometry}
+
+% Кодировки и шрифты
+\usepackage[utf8]{inputenc}      % Кодировка UTF-8 для русского и других языков
+\usepackage[english,russian]{babel}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}  % Можно заменить на любой доступный шрифт
+
+
+\usepackage{multirow}
+\usepackage[table,xcdraw]{xcolor}
+
+
+% Локализация и языковые настройки
+\usepackage[english,russian]{babel}
+
+% Дополнительные пакеты
+\usepackage{graphicx}            % Для вставки изображений
+\usepackage{amsmath}             % Математические символы и формулы
+\usepackage{mathtext}            % Поддержка математических символов в тексте
+\usepackage{float}               % Управление положением объектов (например, таблиц и рисунков)
+\usepackage{url}                 % Для вставки URL-адресов
+\usepackage[unicode]{hyperref}   % Для создания гиперссылок в документе с поддержкой Unicode
+% caption and subcaption work together
+\usepackage{subcaption}          % Подписи к рисункам и таблицам
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+\usepackage{microtype}
+\usepackage[document]{ragged2e}  % Выравнивания по ширине
+\usepackage[none]{hyphenat}%%%%
+\begin{document}
+    \input titlepage
+    \newpage
+    \tableofcontents
+    \newpage
+
+    \sloppy
+    \justifying
+
+    \counterwithin{figure}{section}
+    \counterwithin{equation}{section}
+    \input Task.tex
+    
+
+\end{document}

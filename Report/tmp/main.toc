@@ -1,0 +1,22 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Задание к курсовой работе.}{3}{section.1}%
+\contentsline {section}{\numberline {2} Порядок выполнения работы.}{3}{section.2}%
+\contentsline {section}{\numberline {3}Описание метода конечных объемов (МКО)}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Дискретизация уравнений.}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Описание расчета геометрических характеристик.}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Описание расчета пространственных дифференциальных операторов.}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Расчет градиента скалярной величины.}{9}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Расчет дивергенции.}{10}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Расчет лапласиана скалярного поля.}{11}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Расчет ротора векторного поля.}{12}{subsubsection.4.1.3}%
+\contentsline {section}{\numberline {5}Описание алгоритма расчета уравнения конвективно-диффузионного переноса температуры.}{13}{section.5}%
+\contentsline {section}{\numberline {6}Описание алгоритма вычислительного кода.}{14}{section.6}%
+\contentsline {section}{\numberline {7}Результаты исследований реализованных методов расчета пространственных дифференциальных операторов.}{17}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Расчет градиента скалярного поля.}{18}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Расчет дивергенции произведения скалярной величины на вектор.}{23}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Лапласиан скалярного поля.}{26}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Расчет ротора векторного поля.}{29}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Перенос температуры в каверне.}{31}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Постановка задачи.}{31}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Результаты полученны с помощью программы FLOS.}{33}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Результаты тестирования эффективности параллелилзации.}{37}{subsection.8.3}%
