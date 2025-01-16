@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.6)  16 JAN 2025 07:17
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.10.6)  16 JAN 2025 07:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1162,23 +1162,52 @@ File: img/l2.png Graphic file (type bmp)
 
 
 [37]
-
-LaTeX Warning: Reference `kon' on page 38 undefined on input line 1186.
-
-Missing character: There is no 𝑝 in font Times New Roman/OT:script=latn;language=dflt;mapping=tex-text;!
-)
-Underfull \hbox (badness 1019) in paragraph at lines 1186--55
-[]\TU/TimesNewRoman(0)/m/n/12 Исходя из значений, приведенных в таблице [], и графиков видно, что наблюдается
- []
-
-
-Underfull \hbox (badness 2828) in paragraph at lines 1186--55
-\TU/TimesNewRoman(0)/m/n/12 довольно сильное отклонение от идеальных зависимостей, как для ускорения, так и для
+Underfull \hbox (badness 8094) in paragraph at lines 1201--1202
+[]\TU/TimesNewRoman(0)/m/n/12 Получим, что использование любой встроенной опции оптимизации компилятара
  []
 
 
 
-[38] (c:\Users\dio\Documents\Study\Pozhilov\Report\tmp\main.aux)
+[38]
+Underfull \hbox (badness 2065) in paragraph at lines 1205--1206
+\TU/TimesNewRoman(0)/m/n/12 на двумерных сетках с использованием метода конечных объёмов. Особое внимание
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 1207--1208
+[]\TU/TimesNewRoman(0)/m/n/12 В рамках исследования были изучены два метода расчёта градиента скалярного поля:
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 1207--1208
+\TU/TimesNewRoman(0)/m/n/12 точности как внутри расчётной области, так и на границах, благодаря специальным
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 1207--1208
+\TU/TimesNewRoman(0)/m/n/12 алгоритмам обработки. Однако метод GGI, сохраняя второй порядок точности внутри
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 1207--1208
+\TU/TimesNewRoman(0)/m/n/12 заключается в возможности учитывать скошенность сеток, что позволило значительно
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 1215--1216
+\TU/TimesNewRoman(0)/m/n/12 в каверне с движущейся крышкой и разнонагретыми стенками. Конвективные члены
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 1215--1216
+\TU/TimesNewRoman(0)/m/n/12 изолиний температуры. Схема UGB продемонстрировала менее точные результаты по
+ []
+
+
+
+[39])
+
+[40] (c:\Users\dio\Documents\Study\Pozhilov\Report\tmp\main.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
@@ -1194,15 +1223,15 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C395DC767E417959E7CB6F7071608135;7956.
+(rerunfilecheck)             Checksum: 5AA28671E25BF568D8BFBC19F59B1FB2;8339.
  ) 
 Here is how much of TeX's memory you used:
- 17862 strings out of 409029
- 335777 string characters out of 5762831
- 828133 words of memory out of 5000000
- 40256 multiletter control sequences out of 15000+600000
+ 17864 strings out of 409029
+ 335806 string characters out of 5762831
+ 828571 words of memory out of 5000000
+ 40258 multiletter control sequences out of 15000+600000
  562931 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,13n,93p,1046b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:\Users\dio\Documents\Study\Pozhilov\Report\tmp\main.xdv (38 pages, 449904 bytes).
+Output written on c:\Users\dio\Documents\Study\Pozhilov\Report\tmp\main.xdv (40 pages, 485284 bytes).

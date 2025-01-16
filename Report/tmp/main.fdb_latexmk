@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1737001068.67219 "tmp/main.xdv" "tmp/main.pdf" "tmp/main" 1737001074.44561 0
-  "tmp/main.xdv" 1737001068 449904 bdb34dc9d881857d6710c858948b674b "xelatex"
+["xdvipdfmx"] 1737002262.01353 "tmp/main.xdv" "tmp/main.pdf" "tmp/main" 1737002267.80211 0
+  "tmp/main.xdv" 1737002261 485284 cdcc40c5f1b685348a1b86bd9f7b5fd3 "xelatex"
   (generated)
   "tmp/main.pdf"
   (rewritten before read)
-["xelatex"] 1737001066.79593 "c:/Users/dio/Documents/Study/Pozhilov/Report/main.tex" "tmp/main.xdv" "main" 1737001074.43529 0
+["xelatex"] 1737002260.02541 "c:/Users/dio/Documents/Study/Pozhilov/Report/main.tex" "tmp/main.xdv" "main" 1737002267.7919 0
   "C:/Apps/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136761454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Apps/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Apps/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -103,7 +103,7 @@
   "C:/Apps/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Apps/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/dio/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1728231574 25288016 9361bc287bb7cd0f0b01f048b664e1ee ""
-  "Task.tex" 1737001063 86704 74d32d08f236384edb91278d1bf7d28c ""
+  "Task.tex" 1737002258 92593 3ec6a9ee38a37bcd0e905941db62ee95 ""
   "c:/Users/dio/Documents/Study/Pozhilov/Report/main.tex" 1736976134 2050 548095846861acab85708349d642eaeb ""
   "img/01.1.png" 1736995900 30677 147f236f858eb8d3a93a2babca13bfa8 ""
   "img/01.2.png" 1736995913 33196 eba56ed769ae518e0fc6042e502b35f8 ""
@@ -182,9 +182,9 @@
   "img/l2.png" 1737000909 27245 2aac8cd6c49339dad631fba90eef21aa ""
   "main.tex" 1736976134 2050 548095846861acab85708349d642eaeb ""
   "titlepage.tex" 1736958052 880 b49c5d00b43f2781bc31ad9e020f1534 ""
-  "tmp/main.aux" 1737001068 21725 14dfb4eec0c8e343ca760f9025d60f76 "xelatex"
-  "tmp/main.out" 1737001068 7956 c395dc767e417959e7cb6f7071608135 "xelatex"
-  "tmp/main.toc" 1737001068 3009 369dc4926d28a257f052540232e32a68 "xelatex"
+  "tmp/main.aux" 1737002261 22090 2c43f99c7eb8dc476035c323a4c9b129 "xelatex"
+  "tmp/main.out" 1737002261 8339 5aa28671e25bf568d8bfbc19f59b1fb2 "xelatex"
+  "tmp/main.toc" 1737002261 3251 396973029a70f4520c180f63676e0ca0 "xelatex"
   (generated)
   "tmp/main.aux"
   "tmp/main.log"

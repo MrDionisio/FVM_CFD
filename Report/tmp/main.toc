@@ -20,3 +20,6 @@
 \contentsline {subsection}{\numberline {8.1}Постановка задачи.}{31}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Результаты полученны с помощью программы FLOS.}{33}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}Результаты тестирования эффективности параллелилзации.}{37}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Выводы.}{39}{section.9}%
+\contentsline {section}{\numberline {10}Приложение.}{40}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Приложение А}{40}{subsection.10.1}%
